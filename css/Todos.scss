@@ -1,0 +1,22 @@
+$pink :rgb(250, 170, 183);
+$input: rgb(233,233,233);
+button{
+    background-color: $pink;
+    width: 30px;
+    height: 30px;
+    font: size 25px;
+    color:white;
+    border:none;
+    border-radius:5px;
+    align-items: center;
+}
+
+input{
+    background-color: $input;
+    height:auto;
+    width:auto;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    
+}
